@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @OleMartinKeis
+👋 Hi, I’m Ole Martin Keiseraas
+
+I am currently a firstyear student at Noroff School of Technology and Digital Media, studying Frontend-development.
+
 - 👀 I’m interested in Movies, the gym, video games.
 - 🌱 I’m currently learning Frontend-dev
 - 💞️ I’m looking to collaborate on 
