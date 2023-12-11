@@ -1,6 +1,9 @@
-👋 Hi, I’m Ole Martin Keiseraas
+###👋 Hi, I’m Ole Martin Keiseraas
 
-I am currently a firstyear student at Noroff School of Technology and Digital Media, studying Frontend-development.
+I am currently a Frontend-Developer looking for work!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleMartinKeis)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👀 I’m interested in Movies, the gym, video games.
 - 🌱 I’m currently learning Frontend-dev @Noroff
